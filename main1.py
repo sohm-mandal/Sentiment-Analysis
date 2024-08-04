@@ -157,7 +157,7 @@ def main():
 
     html_temp4 = """
                         <div style="padding:10px">
-                        <h4 style="color:white;text-align:center;">Developed by Rishab Mahato using OpenCV,Streamlit,Tensorflow and Keras.</h4>
+                        <h4 style="color:white;text-align:center;">Developed by Soham using OpenCV,Streamlit,Tensorflow and Keras.</h4>
                         <h4 style="color:white;text-align:center;">Thanks for Visiting</h4>
                         </div>
                         <br></br>
