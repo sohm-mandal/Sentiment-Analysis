@@ -160,8 +160,6 @@ def main():
                         <h4 style="color:white;text-align:center;">Developed by Rishab Mahato using OpenCV,Streamlit,Tensorflow and Keras.</h4>
                         <h4 style="color:white;text-align:center;">Thanks for Visiting</h4>
                         </div>
-                        <a href="https://github.com/Rishab7988">Github</a>
-                        <a href="https://www.linkedin.com/in/rishab-mahato/">LinkedIn</a>
                         <br></br>
                         <br></br>"""
 
